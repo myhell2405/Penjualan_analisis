@@ -47,7 +47,7 @@ Dataset disimpan di file `penjualan.csv` dan berisi data fiktif transaksi selama
 ---
 
 ## 👤 Author
-**Helmy Akrim**  
+**L**  
 Calon Data Analyst | Belajar dari Nol
 
 ---
